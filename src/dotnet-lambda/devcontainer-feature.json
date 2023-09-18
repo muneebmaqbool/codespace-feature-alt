@@ -1,6 +1,6 @@
 {
     "name": "AWS Lambda Tools for dotnet",
-    "id": "dotnet-aws-lambda-tools",
+    "id": "dotnet-lambda",
     "version": "1.0.0",
     "description": "A feature to install aws lambda tools for dotnet",    
     "installsAfter": [
